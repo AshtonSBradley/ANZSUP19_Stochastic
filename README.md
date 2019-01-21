@@ -1,4 +1,5 @@
 # ANZSUP2019 Lectures, Ashton Bradley
+[Australian and New Zealand School in Ultracold Physics 2019](https://www.otago.ac.nz/dodd-walls/events/anzsup/index.html)
 
 ## Lectures 
 Best viewed via the links:
