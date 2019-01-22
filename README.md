@@ -8,6 +8,6 @@ Best viewed via the links:
 
 ## Computer workshops 
 
-1. Intro to julia; Wiener process; intro to SDE's
-2. Ito and Stratonovich; convergence; examples
-3. Quantum examples
+1. Intro to julia; discrete Wiener process 
+2. 
+3. 
