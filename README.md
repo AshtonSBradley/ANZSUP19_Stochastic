@@ -3,8 +3,8 @@
 
 ## Lectures 
 Best viewed via the links:
-1. [Stochastic processes](https://nbviewer.jupyter.org/github/AshtonSBradley/ANZSUP19_Stochastic/blob/master/Lecture%201.ipynb)
-2. Stochastic integration; quantum phase space
+1. [Stochastic processes](https://nbviewer.jupyter.org/github/AshtonSBradley/ANZSUP19_Stochastic/blob/master/Lecture%201.ipynb?flush_cache=true)
+2. [Stochastic integration; quantum phase space](https://nbviewer.jupyter.org/github/AshtonSBradley/ANZSUP19_Stochastic/blob/master/Lecture%202.ipynb?flush_cache=true)
 
 ## Computer workshops 
 
