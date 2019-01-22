@@ -9,5 +9,6 @@ Best viewed via the links:
 ## Computer workshops 
 
 1. Intro to julia; discrete Wiener process 
-2. 
-3. 
+2. ODE's and SDE's in `DifferentialEquations.jl`
+3. Quantum phase space with SDE's
+
