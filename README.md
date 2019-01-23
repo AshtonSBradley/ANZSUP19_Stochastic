@@ -8,7 +8,7 @@ Best viewed via the links:
 
 ## Computer workshops 
 
-1. [Intro to julia; discrete Wiener process](https://nbviewer.jupyter.org/github/AshtonSBradley/ANZSUP19_Stochastic/blob/master/Workshop%201.ipynb?flush_cache=true)
+1. [Intro to julia; discrete Wiener process](https://nbviewer.jupyter.org/github/AshtonSBradley/ANZSUP19_Stochastic/blob/master/Workshop1.ipynb?flush_cache=true)
 2. ODE's and SDE's in `DifferentialEquations.jl`
 3. Quantum phase space with SDE's
 
