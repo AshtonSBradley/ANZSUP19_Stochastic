@@ -9,6 +9,6 @@ Best viewed via the links:
 ## Computer workshops 
 
 1. [Intro to julia](https://nbviewer.jupyter.org/github/AshtonSBradley/ANZSUP19_Stochastic/blob/master/Workshop1.ipynb?flush_cache=true)
-2. [Discrete Wiener process; intro to `DifferentialEquations.jl`](https://nbviewer.jupyter.org/github/AshtonSBradley/ANZSUP19_Stochastic/blob/master/Workshop2.ipynb?flush_cache=true)
+2. [Discrete Wiener process; intro to](https://nbviewer.jupyter.org/github/AshtonSBradley/ANZSUP19_Stochastic/blob/master/Workshop2.ipynb?flush_cache=true) [DifferentialEquations.jl](https://github.com/JuliaDiffEq/DifferentialEquations.jl)
 3. Quantum phase space with SDE's
 
