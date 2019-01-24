@@ -10,5 +10,5 @@ Best viewed via the links:
 
 1. [Intro to julia](https://nbviewer.jupyter.org/github/AshtonSBradley/ANZSUP19_Stochastic/blob/master/Workshop1.ipynb?flush_cache=true)
 2. [Discrete Wiener process; intro to](https://nbviewer.jupyter.org/github/AshtonSBradley/ANZSUP19_Stochastic/blob/master/Workshop2.ipynb?flush_cache=true) [DifferentialEquations.jl](https://github.com/JuliaDiffEq/DifferentialEquations.jl)
-3. Quantum phase space with SDE's
+3. [Quantum phase space with SDE's](https://nbviewer.jupyter.org/github/AshtonSBradley/ANZSUP19_Stochastic/blob/master/Workshop3.ipynb?flush_cache=true)
 
