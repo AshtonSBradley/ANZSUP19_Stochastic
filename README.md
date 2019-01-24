@@ -1,8 +1,9 @@
 # ANZSUP2019 Lectures, Ashton Bradley
 [Australian and New Zealand School in Ultracold Physics 2019](https://www.otago.ac.nz/dodd-walls/events/anzsup/index.html)
+Please use the links below to get a faithful render:
 
 ## Lectures 
-Best viewed via the links:
+
 1. [Stochastic processes](https://nbviewer.jupyter.org/github/AshtonSBradley/ANZSUP19_Stochastic/blob/master/Lecture%201.ipynb?flush_cache=true)
 2. [Stochastic integration; quantum phase space](https://nbviewer.jupyter.org/github/AshtonSBradley/ANZSUP19_Stochastic/blob/master/Lecture%202.ipynb?flush_cache=true)
 
