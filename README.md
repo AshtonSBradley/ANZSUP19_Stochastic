@@ -1,11 +1,11 @@
 # ANZSUP2019 Lectures
-Stochastic differential equations, quantum phase space, and Julia
+__Ashton Bradley__, [amoqt group](https://amoqt.otago.ac.nz), Department of Physics, University of Otago
 
-Ashton Bradley
+A series of lectures and computer workshops on stochastic differential equations, quantum phase space, and julia, given at the
 
 [Australian and New Zealand School in Ultracold Physics 2019](https://www.otago.ac.nz/dodd-walls/events/anzsup/index.html)
 
-Please use the links below to get a correct view of the notebooks:
+__Please use the links below to get a correct view of the notebooks:__
 
 ## Lectures 
 
