@@ -5,7 +5,7 @@ Ashton Bradley
 
 [Australian and New Zealand School in Ultracold Physics 2019](https://www.otago.ac.nz/dodd-walls/events/anzsup/index.html)
 
-Please use the links below to get a faithful render:
+Please use the links below to get a correct view of the notebooks:
 
 ## Lectures 
 
