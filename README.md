@@ -1,4 +1,5 @@
-# ANZSUP2019 Lectures [![DOI](https://zenodo.org/badge/115932136.svg)](https://zenodo.org/badge/latestdoi/115932136)
+# ANZSUP2019 Lectures [![DOI](https://zenodo.org/badge/166740766.svg)](https://zenodo.org/badge/latestdoi/166740766)
+
 
 __Ashton Bradley__, [amoqt group](https://amoqt.otago.ac.nz), Department of Physics, University of Otago
 
